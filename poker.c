@@ -72,7 +72,7 @@ int doisPares(tMao mao){
 	return 0;
 	
 	
-}
+}//verifica se existem dois pares na mão 0 = falso, 1 = verdadeiro
 
 int temTrinca(tMao mao){
 	int i;
